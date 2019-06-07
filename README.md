@@ -16,7 +16,7 @@ http://www.klaviyo.com/
 
 ## API Examples
 
-After installing the klaviyo package you can initiate it using your public token which is for track events or identifying profiles and/or your private API key to utilize the metrics and list APIs.
+After installing the klaviyo package you can initiate it using your public token which is for track events or identifying profiles.
 
     const Klaviyo = require('klaviyo-node')
 
